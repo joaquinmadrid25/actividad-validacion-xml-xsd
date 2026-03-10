@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<expresionesRegulares>
+<xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="expresionesRegulares.xsd">
+    <usuario id="1">
+        <nombre>Joaquin</nombre>
+        <apellido>Madrid</apellido>
+        <email>joaquinmadrid@gmail.com</email>
+        <telefono>622070250</telefono>
+        <codigoPostal>41940</codigoPostal>
+        <nombreUsuario>Joaquin</nombreUsuario>
+        <contrasena>Joaquin05!</contrasena>
+    </usuario> 
+    <usuario id="2">
+        <nombre>Juan</nombre>
+        <apellido>Garcia</apellido>
+        <email>juangarcia@gmail.com</email>
+        <telefono>234567895</telefono>
+        <codigoPostal>50980</codigoPostal>
+        <nombreUsuario>Juan</nombreUsuario>
+        <contrasena>JuanG4#23</contrasena>
+    </usuario>
+    <usuario id="3">
+        <nombre>Pedro</nombre>
+        <apellido>Lopez</apellido>
+        <email>pedrolopez@gmail.com</email>
+        <telefono>146879895</telefono>
+        <codigoPostal>60759</codigoPostal>
+        <nombreUsuario>Pedro</nombreUsuario>
+        <contrasena>PedroL9@21</contrasena>
+    </usuario>
+</expresionesRegulares>
